@@ -1,0 +1,2 @@
+# Bu dosya, Git'in boş klasörleri takip etmesini sağlar
+# Persistence katmanı için veritabanı context'leri, migration'lar, repository'ler burada olacak 
